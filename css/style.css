@@ -1,0 +1,145 @@
+.container 
+{
+    background: #fff;
+    overflow: visible;
+}
+
+.name
+{
+    border: 1px solid #000;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    margin-top: 80px;
+    margin-bottom: 5px;
+    font-family: Open Sans,sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    letter-spacing: 10px;
+}
+
+.small-note 
+{
+    text-transform: uppercase;
+    font-family: Open Sans,sans-serif;
+    font-size: smaller;
+    color: #757575;
+    margin-bottom: 40px;
+}
+
+.resume-image 
+{
+	width: 25%;
+    height: 100%;
+    border-radius: 50%;
+    background-image: url(/best-resume-ever/static/img/id.087ce5d.jpg);
+    background-repeat: none;
+    background-position: 50%;
+    background-size: cover;
+    height: 180px;
+}
+
+body 
+{
+    font-family: Source Sans Pro,sans-serif;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    background: #ccc;
+}
+
+.left-half
+{
+    float: left;
+    text-align: right;
+    width: 48%;
+}
+
+.right-half
+{
+    float: right;
+    text-align: left;
+    width: 48%;
+}
+
+.set-size
+{
+    position: relative;
+    width: 21cm;
+    display: block;
+    page-break-after: auto;
+    font-size: 16px;
+    background: #fff;
+}
+
+.education span
+{
+    width: 100%;
+    color: #616161;
+	
+display:inline-block;
+}
+
+.experience-block span
+{
+    width: 100%;
+    color: #616161;
+	display:inline-block;
+}
+
+.font-size
+{
+    display: block;
+    font-size: 1.17em !important;
+    margin-block-start: 1em;
+    font-weight: bold !important;
+}
+
+table
+{
+    text-align: right;
+    float: right;
+    margin-top: 5px;
+    color: #616161;
+}
+
+.limit-image 
+{
+width:30px;
+padding-left: 2px;
+margin-left: 0.5em;
+}
+
+
+.title-something
+{
+font-weight: 700;
+padding-bottom: 5px;
+padding-top: 10px;
+color: #424242;
+}
+
+.experience-block
+{
+    font-style: italic;
+}
+
+.color-dark-grey
+{
+color: #616161;
+}
+
+.font-size-14
+{
+    font-size:14px;
+}
+
+.skills-other span 
+{
+    display:inline-block;
+}
+
+.font-15
+{
+    font-size: 15px;
+}
